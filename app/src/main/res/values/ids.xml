@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recipesFragment" type="id" />
+    <item name="favoriteRecipesFragment" type="id" />
+    <item name="userProfileFragment" type="id" />
+    <item name="bottomNavigationView" type="id" />
+    <item name="navHostFragment" type="id" />
+</resources>
